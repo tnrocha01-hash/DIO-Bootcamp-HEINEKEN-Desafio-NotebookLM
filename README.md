@@ -6,7 +6,7 @@ Este repositório foi desenvolvido para o desafio de projeto da DIO, consolidand
 
 ##  1. Contexto e Objetivos
 *   **Tema Escolhido:** Governança de TI e Engenharia de Requisitos: Papéis, Autoridades e Modelos Documentais no Contexto Tradicional e Ágil.
-*   **Objetivo de Estudo:** Investigar a dinâmica de responsabilidades entre as áreas de Governança, Requisitos, Desenvolvimento e QA na definição de artefatos de software. O foco é compreender os limites de autoridade técnica e normativa para evitar retrabalhos e garantir a qualidade do produto final.
+*   **Objetivo de Estudo:** Investigar a dinâmica de responsabilidades entre as áreas de Governança, Requisitos, Desenvolvimento e QA na definição de artefatos de especificação. O foco é compreender os limites de autoridade técnica e normativa para evitar retrabalhos e garantir a qualidade do produto final.
 
 ---
 
@@ -24,7 +24,7 @@ As seguintes fontes acadêmicas e profissionais foram carregadas no NotebookLM p
 ---
 
 ##  3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
-As fontes apresentam uma análise profunda sobre a Engenharia de Requisitos. Os textos diferenciam histórias de usuário (foco em valor de negócio e simplicidade) de casos de uso (interações técnicas). Eles defendem que a organização dos requisitos evita retrabalho. 
+As fontes apresentam uma análise profunda sobre responsabilidades entre as áreas de Governança, Requisitos, Desenvolvimento e QA na definição de artefatos de especificação. A governança do PMO define a obrigatoriedade de entrega dos documentos de especificação, enquanto a equipe de requisitos, na ausência de um layout corporativo, assume autonomia para propor o modelo ideal com bse em padrões de mercado. As equipes de desenvolvimento e QA, agindo como consumidoras do artefato, realizam revisões técnicas para validar a implementação e testabilidade, sem autoridade para definir o layout.
 
 Abaixo, documenta-se o processo de mentoria e as 5 perguntas estratégicas realizadas no NotebookLM para mapear a matriz de responsabilidades do projeto:
 
