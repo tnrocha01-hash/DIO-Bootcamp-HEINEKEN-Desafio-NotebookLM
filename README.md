@@ -1,11 +1,11 @@
 # DIO-Bootcamp-HEINEKEN-Desafio-NotebookLM
-DIO Bootcamp HEINEKEN Desafio de Projeto com Notebook LM
-Este repositório foi desenvolvido para o desafio de projeto da DIO, consolidando um estudo aprofundado sobre o ciclo de vida e a governança da Engenharia de Requisitos através do Google NotebookLM.
+DIO Bootcamp HEINEKEN Desafio de Projeto com Notebook LM  
+Este repositório foi desenvolvido para o desafio de projeto da DIO, consolidando um estudo sobre Governança de TI e Engenharia de Requisitos: Papéis, Autoridades e Modelos de Documentação Técnica no Contexto dos Projetos através do Google NotebookLM.
 
 ---
 
 ##  1. Contexto e Objetivos
-*   **Tema Escolhido:** Governança de TI e Engenharia de Requisitos: Papéis, Autoridades e Modelos Documentais no Contexto Tradicional e Ágil.
+*   **Tema Escolhido:** Governança de TI e Engenharia de Requisitos: Papéis, Autoridades e Modelos de Documentação Técnica no Contexto  dos Projetos.
 *   **Objetivo de Estudo:** Investigar a dinâmica de responsabilidades entre as áreas de Governança, Requisitos, Desenvolvimento e QA na definição de artefatos de especificação. O foco é compreender os limites de autoridade técnica e normativa para evitar retrabalhos e garantir a qualidade do produto final.
 
 ---
