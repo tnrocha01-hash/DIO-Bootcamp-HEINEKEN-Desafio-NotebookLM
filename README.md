@@ -69,11 +69,13 @@ Abaixo, documenta-se o processo de mentoria e as 5 perguntas estratégicas reali
 *   **Testabilidade:** Característica de um requisito que permite avaliar claramente se a funcionalidade construída atende ou não ao critério esperado através de um teste binário (passou/falhou).
 
 ### Prompts Reutilizáveis para Revisão Futura
-*   `"A partir do contexto de Engenharia de Requisitos estudado, crie uma matriz RACI correlacionando as atividades de especificação de software com os perfis de Governança, Requisitos, Dev e QA."`
-*   `"Simule um cenário de conflito onde o QA reprova um layout de especificação aprovado pela Governança Global por falta de testabilidade. Como o Analista de Requisitos deve proceder?"`
+*   `"A partir do contexto de Engenharia de Requisitos estudado, crie um infografico correlacionando a responsabilidade da documen tação técnica com os perfis de Governança, Requisitos, Dev e QA."`
 
 ---
 
 ##  Tecnologias Utilizadas
 *   **Google NotebookLM** (Gerenciamento do conhecimento e curadoria das fontes da UFC, Alura e Feevale).
 *   **GitHub** (Hospedagem da documentação oficial do portfólio).
+
+---
+![Infográfico](Hierarquia_na_Definição_de_Requisitos.jpg)
